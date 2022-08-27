@@ -1,11 +1,13 @@
 ### Bem vindos 👋🏿
 
-🔭 Atualmente estou trabalhando em um projeto React <br>
-🌱 Atualmente estou aprendendo React e TypeScript com Resilia educação <br>
-🤔 Estou procurando ajuda para ingressar no mercado de trabalho como desenvolvedor <br>
-💬 Pergunte-me sobre meu projetos <br>
+🔭 Atualmente estou desenvolvendo um projeto Devops <br>
+🌱 Atualmente estou aprendendo Java e JAVASCRIPT e DEVOPS com ALURA - Estudando para certificações INFRA<br>
+💻 Trabalhando na empresa Disys como Analista de Suporte Pleno<br>
+🤔 Estou procurando ajuda com meu projeto como desenvolvedor JR e DEVOPS<br>
+💬 Pergunte-me sobre meus projetos <br>
 📫 Como entrar em contato comigo: davifernandessrn@gmail.com <br>
 ⚡ Curiosidade: Pai, amigo, flamenguista e gente fina. <br>
+🎓 Realizei a conclusão do curso Web Fullstack na instituição do Resilia Educação
 
 <div>
 <a href="https://www.linkedin.com/in/devfernandes/"/>
