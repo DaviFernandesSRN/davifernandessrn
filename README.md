@@ -1,4 +1,4 @@
-### Bem vindos 👋🏿
+### Bem vindos 👋🏿🎯
 
 🔭 Atualmente estou desenvolvendo um projeto Devops <br>
 🌱 Atualmente estou aprendendo Java e JAVASCRIPT e DEVOPS com ALURA - Estudando para certificações INFRA<br>
